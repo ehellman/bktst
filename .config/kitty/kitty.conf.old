@@ -1,0 +1,7 @@
+globinclude kitty.d/**/*.conf
+envinclude KITTY_CONF_*
+
+
+# font
+font_family	ShureTechMono Nerd Font
+font_size	12
